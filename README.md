@@ -8,7 +8,6 @@
 
 [![Restaurant Website](https://img.shields.io/badge/Restaurant%20Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paashkovaaa/bufet)
 [![Airport API Service](https://img.shields.io/badge/Airport%20API%20Service-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paashkovaaa/airport-api-service)
-[![Scrapy Rental](https://img.shields.io/badge/Scrapy%20Rental-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paashkovaaa/rental_info_scrapy_project)
 
 
 You can find more information about these projects by clicking on the badges above!
